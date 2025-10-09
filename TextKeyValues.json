@@ -106,5 +106,37 @@
   {
     "name": "schedule_title_9",
     "text": "仮装コンテスト/\r\n出店グランプリ"
+  },
+  {
+    "name": "x_shop_menu_1",
+    "text": "小籠包"
+  },
+  {
+    "name": "x_shop_menu_2",
+    "text": "たこやき"
+  },
+  {
+    "name": "x_shop_name_1",
+    "text": "ダンス部"
+  },
+  {
+    "name": "x_shop_name_2",
+    "text": "大学祭実行委員"
+  },
+  {
+    "name": "y_shop_menu_1",
+    "text": "やきとり"
+  },
+  {
+    "name": "y_shop_menu_2",
+    "text": "はちみつワッフル"
+  },
+  {
+    "name": "y_shop_name_1",
+    "text": "クリーンライフボランティア同好会"
+  },
+  {
+    "name": "y_shop_name_2",
+    "text": "サイエンスラボ部"
   }
 ]
