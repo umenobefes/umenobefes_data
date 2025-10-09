@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "name": "schedule_location_1",
+    "text": "野外ステージ"
+  },
+  {
+    "name": "schedule_location_2",
+    "text": "野外ステージ"
+  },
+  {
+    "name": "schedule_location_3",
+    "text": "野外ステージ"
+  },
+  {
+    "name": "schedule_location_4",
+    "text": "野外ステージ"
+  },
+  {
+    "name": "schedule_location_5",
+    "text": "野外ステージ"
+  },
+  {
+    "name": "schedule_location_6",
+    "text": "野外ステージ"
+  },
+  {
+    "name": "schedule_location_7",
+    "text": "野外ステージ"
+  },
+  {
+    "name": "schedule_location_8",
+    "text": "野外ステージ"
+  },
+  {
+    "name": "schedule_location_9",
+    "text": "野外ステージ"
+  },
+  {
+    "name": "schedule_time_1",
+    "text": "10:00-10:45"
+  },
+  {
+    "name": "schedule_time_2",
+    "text": "10:55-11:50"
+  },
+  {
+    "name": "schedule_time_3",
+    "text": "12:00-13:10"
+  },
+  {
+    "name": "schedule_time_4",
+    "text": "13:20-14:00"
+  },
+  {
+    "name": "schedule_time_5",
+    "text": "14:10-14:50"
+  },
+  {
+    "name": "schedule_time_6",
+    "text": "15:00-15:50"
+  },
+  {
+    "name": "schedule_time_7",
+    "text": "16:00-17:00"
+  },
+  {
+    "name": "schedule_time_8",
+    "text": "17:10-18:30"
+  },
+  {
+    "name": "schedule_time_9",
+    "text": "18:40-19:30"
+  },
+  {
+    "name": "schedule_title_1",
+    "text": "仮装コンテスト\r\n"
+  },
+  {
+    "name": "schedule_title_2",
+    "text": "近大ゴッドタレント"
+  },
+  {
+    "name": "schedule_title_3",
+    "text": "大食い王決定戦"
+  },
+  {
+    "name": "schedule_title_4",
+    "text": "マジックショー"
+  },
+  {
+    "name": "schedule_title_5",
+    "text": "ダンスパフォーマンス"
+  },
+  {
+    "name": "schedule_title_6",
+    "text": "他大学交流戦"
+  },
+  {
+    "name": "schedule_title_7",
+    "text": "お笑いライブ"
+  },
+  {
+    "name": "schedule_title_8",
+    "text": "ビンゴ大会"
+  },
+  {
+    "name": "schedule_title_9",
+    "text": "仮装コンテスト/\r\n出店グランプリ"
+  }
+]
