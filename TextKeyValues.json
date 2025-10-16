@@ -4,8 +4,20 @@
     "text": ""
   },
   {
+    "name": "exhibition_desc_1",
+    "text": "サイエンスラボ部のすべてが詰まってる！鉢や防護服を着て養蜂擬似体験!?スタンプラリーの最後にフォトスポットが!"
+  },
+  {
+    "name": "exhibition_location_1",
+    "text": "C109"
+  },
+  {
     "name": "exhibition_name_1",
     "text": "サイエンスラボ部"
+  },
+  {
+    "name": "exhibition_time_1",
+    "text": "10:30~17:00"
   },
   {
     "name": "guest_dest",
