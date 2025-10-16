@@ -220,6 +220,10 @@
     "text": "たこやき"
   },
   {
+    "name": "x_shop_menu_4",
+    "text": "餃子"
+  },
+  {
     "name": "x_shop_name_1",
     "text": "ダンス部"
   },
@@ -236,11 +240,43 @@
     "text": "はちみつワッフル"
   },
   {
+    "name": "y_shop_menu_3",
+    "text": "ドリンク&綿菓子"
+  },
+  {
+    "name": "y_shop_menu_4",
+    "text": "焼きそば"
+  },
+  {
+    "name": "y_shop_menu_5",
+    "text": "フランクフルト\r\n"
+  },
+  {
+    "name": "y_shop_menu_6",
+    "text": "シャカシャカポテト"
+  },
+  {
     "name": "y_shop_name_1",
     "text": "クリーンライフボランティア同好会"
   },
   {
     "name": "y_shop_name_2",
     "text": "サイエンスラボ部"
+  },
+  {
+    "name": "y_shop_name_3",
+    "text": "テーブルゲーム研究部"
+  },
+  {
+    "name": "y_shop_name_4",
+    "text": "ラグビー部"
+  },
+  {
+    "name": "y_shop_name_5",
+    "text": "学生健保共済"
+  },
+  {
+    "name": "y_shop_name_6",
+    "text": "学友会執行部"
   }
 ]
