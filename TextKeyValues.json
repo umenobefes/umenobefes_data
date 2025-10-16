@@ -220,7 +220,7 @@
     "text": "たこやき"
   },
   {
-    "name": "x_shop_menu_4",
+    "name": "x_shop_menu_3",
     "text": "餃子"
   },
   {
@@ -230,6 +230,10 @@
   {
     "name": "x_shop_name_2",
     "text": "大学祭実行委員"
+  },
+  {
+    "name": "x_shop_name_3",
+    "text": "大学祭OB"
   },
   {
     "name": "y_shop_menu_1",
