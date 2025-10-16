@@ -16,6 +16,14 @@
     "text": "野外ステージ"
   },
   {
+    "name": "schedule_location_12",
+    "text": "多目的ホール"
+  },
+  {
+    "name": "schedule_location_13",
+    "text": "多目的ホール"
+  },
+  {
     "name": "schedule_location_2",
     "text": "野外ステージ"
   },
@@ -60,6 +68,14 @@
     "text": "19:30-19:50"
   },
   {
+    "name": "schedule_time_12",
+    "text": "10:00-10:45"
+  },
+  {
+    "name": "schedule_time_13",
+    "text": "11:30-15:45"
+  },
+  {
     "name": "schedule_time_2",
     "text": "10:25-10:45"
   },
@@ -102,6 +118,14 @@
   {
     "name": "schedule_title_11",
     "text": "ミュージック打ち上げ花火"
+  },
+  {
+    "name": "schedule_title_12",
+    "text": "近大付属中学校・高校吹奏楽部&近大工学部吹奏楽合同演奏会"
+  },
+  {
+    "name": "schedule_title_13",
+    "text": "軽音楽部ライブ"
   },
   {
     "name": "schedule_title_2",
