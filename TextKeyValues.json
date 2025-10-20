@@ -24,16 +24,64 @@
     "text": "サイエンスラボ部のすべてが詰まってる！鉢や防護服を着て養蜂擬似体験!?スタンプラリーの最後にフォトスポットが!"
   },
   {
+    "name": "exhibition_desc_2",
+    "text": "小さい子供と一緒に遊んだり、祭りの手伝いをしたり、献血の呼びかけなど様々なことをしています！"
+  },
+  {
+    "name": "exhibition_desc_3",
+    "text": "今回のうめの辺祭では、いろんなボードゲームを自由に遊べるフリースペースを開放しています！気軽に立ち寄って、ボードゲームの楽しさを一気に味わってください！"
+  },
+  {
+    "name": "exhibition_desc_4",
+    "text": "うめの辺祭では部員が開発した各種作品を展示しております！ぜひご参加ください！\r\n・体験型ゲーム(C308)\r\nトラッカーを使ったユーザ体験型のゲームを展示します！\r\n・ゲーム展示(C210)\r\n部員が作成したゲームを展示します！\r\n"
+  },
+  {
     "name": "exhibition_location_1",
     "text": "C109"
+  },
+  {
+    "name": "exhibition_location_2",
+    "text": "C308"
+  },
+  {
+    "name": "exhibition_location_3",
+    "text": "C211"
+  },
+  {
+    "name": "exhibition_location_4",
+    "text": "C210/C305"
   },
   {
     "name": "exhibition_name_1",
     "text": "サイエンスラボ部"
   },
   {
+    "name": "exhibition_name_2",
+    "text": "クリーンライフボランティア同好会"
+  },
+  {
+    "name": "exhibition_name_3",
+    "text": "テーブルゲーム研究部"
+  },
+  {
+    "name": "exhibition_name_4",
+    "text": "マイコン部"
+  },
+  {
     "name": "exhibition_time_1",
     "text": "10:30~17:00"
+  },
+  {
+    "name": "exhibition_time_2",
+    "text": "10:00~18:00"
+  },
+  {
+    "name": "exhibition_time_3",
+    "text": "10:00～18:00"
+  },
+  {
+    "name": "exhibition_time_4",
+    "text": "10:00～18:00"
   },
   {
     "name": "firework_desc",
@@ -50,6 +98,10 @@
   {
     "name": "firework_time",
     "text": "19:30～"
+  },
+  {
+    "name": "guest_desc",
+    "text": "2024ブレイク芸人ランキングNo1の称号を持つワタナベエンターテインメント所属のお笑いトリオ！すがちゃん最高No.1、金子きょんちぃ、信子の3人がギャルとチャラ男をテーマにした漫才で人気を集め、あらゆるメディアで大活躍中！！"
   },
   {
     "name": "guest_dest",
