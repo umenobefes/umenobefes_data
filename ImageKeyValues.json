@@ -40,6 +40,10 @@
     "filename": "9758e3e3c38f4a4798752037204c7c30.png"
   },
   {
+    "name": "x_shop_image_4",
+    "filename": "51fa312693344de19589de3fabde972a.png"
+  },
+  {
     "name": "y_shop_image_1",
     "filename": "0b8ebdc08cfd43a18b48340264f8ce2c.png"
   },
@@ -62,5 +66,17 @@
   {
     "name": "y_shop_image_6",
     "filename": "fb0c84fee4d048f98a80b0fe1149a031.png"
+  },
+  {
+    "name": "y_shop_image_7",
+    "filename": "a9074cfe134b4a20ab954900ce390233.png"
+  },
+  {
+    "name": "y_shop_image_8",
+    "filename": "10bc48e9ac9f446da5071f56b31c0040.png"
+  },
+  {
+    "name": "y_shop_image_9",
+    "filename": "563edfb7aa2b46249176318a77a7589d.png"
   }
 ]

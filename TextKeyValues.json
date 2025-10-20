@@ -272,6 +272,10 @@
     "text": "餃子"
   },
   {
+    "name": "x_shop_menu_4",
+    "text": "チュロス"
+  },
+  {
     "name": "x_shop_name_1",
     "text": "ダンス部"
   },
@@ -282,6 +286,10 @@
   {
     "name": "x_shop_name_3",
     "text": "大学祭OB"
+  },
+  {
+    "name": "x_shop_name_4",
+    "text": "軽音楽部"
   },
   {
     "name": "y_shop_menu_1",
@@ -308,6 +316,18 @@
     "text": "シャカシャカポテト"
   },
   {
+    "name": "y_shop_menu_7",
+    "text": "たこせん、たません、たこたま"
+  },
+  {
+    "name": "y_shop_menu_8",
+    "text": "軟骨のから揚げ"
+  },
+  {
+    "name": "y_shop_menu_9",
+    "text": "炭酸ドリンク"
+  },
+  {
     "name": "y_shop_name_1",
     "text": "クリーンライフボランティア同好会"
   },
@@ -330,5 +350,17 @@
   {
     "name": "y_shop_name_6",
     "text": "学友会執行部"
+  },
+  {
+    "name": "y_shop_name_7",
+    "text": "工学会"
+  },
+  {
+    "name": "y_shop_name_8",
+    "text": "少林寺拳法部"
+  },
+  {
+    "name": "y_shop_name_9",
+    "text": "文化会本部"
   }
 ]
