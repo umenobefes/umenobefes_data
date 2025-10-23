@@ -16,6 +16,18 @@
     "text": "本校軽音楽部は日々の練習を通じてバンド演奏に取り組んでいます。うめの辺祭では複数のバンドがロックやポップスを中心とした楽曲を披露し、会場を盛り上げます。ぜひ足をお運びいただき私たちの音楽をお楽しみください"
   },
   {
+    "name": "exhibition_desc_12",
+    "text": "私たちは今回例年通りの展覧会だけでなく、みなさんが分科会を楽しんでいる様子をチェキで撮影します！皆さんの思い出の1ページに残すきっかけになれるように頑張ります！"
+  },
+  {
+    "name": "exhibition_desc_13",
+    "text": "私たち同好会の日々の作品を展示いたします！来場者参加型アート作品もご用意！一緒に素敵な作品を作ってみませんか？"
+  },
+  {
+    "name": "exhibition_desc_14",
+    "text": "脱出ゲームを開催します。映像や劇を交えてストーリーを進め、参加者の方々に謎を解きながらゴールを目指していただきます！"
+  },
+  {
     "name": "exhibition_desc_2",
     "text": "小さい子供と一緒に遊んだり、祭りの手伝いをしたり、献血の呼びかけなど様々なことをしています！"
   },
@@ -58,6 +70,18 @@
   {
     "name": "exhibition_location_11",
     "text": "多目的ホール"
+  },
+  {
+    "name": "exhibition_location_12",
+    "text": "C308"
+  },
+  {
+    "name": "exhibition_location_13",
+    "text": "C209"
+  },
+  {
+    "name": "exhibition_location_14",
+    "text": "C305"
   },
   {
     "name": "exhibition_location_2",
@@ -104,6 +128,18 @@
     "text": "軽音楽部"
   },
   {
+    "name": "exhibition_name_12",
+    "text": "写真部"
+  },
+  {
+    "name": "exhibition_name_13",
+    "text": "芸術・イラスト同好会"
+  },
+  {
+    "name": "exhibition_name_14",
+    "text": "放送部"
+  },
+  {
     "name": "exhibition_name_2",
     "text": "クリーンライフボランティア同好会"
   },
@@ -146,6 +182,18 @@
   {
     "name": "exhibition_time_11",
     "text": "11:30~16:00"
+  },
+  {
+    "name": "exhibition_time_12",
+    "text": "10:00~18:00"
+  },
+  {
+    "name": "exhibition_time_13",
+    "text": "10:00~18:00"
+  },
+  {
+    "name": "exhibition_time_14",
+    "text": "①12:00~13:00\r\n②13:45~14:45"
   },
   {
     "name": "exhibition_time_2",
