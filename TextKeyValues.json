@@ -24,6 +24,14 @@
     "text": "サイエンスラボ部のすべてが詰まってる！鉢や防護服を着て養蜂擬似体験!?スタンプラリーの最後にフォトスポットが!"
   },
   {
+    "name": "exhibition_desc_10",
+    "text": "大学と附属中高の吹奏楽部が合同演奏会を開催します。世代を超えた迫力のサウンドで会場を盛り上げます"
+  },
+  {
+    "name": "exhibition_desc_11",
+    "text": "本校軽音楽部は日々の練習を通じてバンド演奏に取り組んでいます。うめの辺祭では複数のバンドがロックやポップスを中心とした楽曲を披露し、会場を盛り上げます。ぜひ足をお運びいただき私たちの音楽をお楽しみください"
+  },
+  {
     "name": "exhibition_desc_2",
     "text": "小さい子供と一緒に遊んだり、祭りの手伝いをしたり、献血の呼びかけなど様々なことをしています！"
   },
@@ -36,8 +44,36 @@
     "text": "うめの辺祭では部員が開発した各種作品を展示しております！ぜひご参加ください！\r\n・体験型ゲーム(C308)\r\nトラッカーを使ったユーザ体験型のゲームを展示します！\r\n・ゲーム展示(C210)\r\n部員が作成したゲームを展示します！\r\n"
   },
   {
+    "name": "exhibition_desc_5",
+    "text": "レスキューロボットコンテストのために作成したロボット、部員が個人製作したロボットを展示しています。ぜひ立ち寄ってみてください！"
+  },
+  {
+    "name": "exhibition_desc_6",
+    "text": "学生起業部ではビジネスコンテストへ向けたプランの作成、ボードゲーム制作団体と協働して行うゲーム制作、販売活動などを中心に活動を行っています。学生起業部が制作した過去作品の展示を行います"
+  },
+  {
+    "name": "exhibition_desc_7",
+    "text": "10分間程度のプラネタリウムを上映します"
+  },
+  {
+    "name": "exhibition_desc_8",
+    "text": "出来立てホヤホヤの模型同好会です。ジャンルを問わず模型が好きな人はぜひ来てね"
+  },
+  {
+    "name": "exhibition_desc_9",
+    "text": "「生命と機械」をテーマにCGとインスタレーション（空間アート）を融合した体験型アートを展示しています！ぜひ見に来てください！"
+  },
+  {
     "name": "exhibition_location_1",
     "text": "C109"
+  },
+  {
+    "name": "exhibition_location_10",
+    "text": "多目的ホール"
+  },
+  {
+    "name": "exhibition_location_11",
+    "text": "多目的ホール"
   },
   {
     "name": "exhibition_location_2",
@@ -52,8 +88,36 @@
     "text": "C210/C305"
   },
   {
+    "name": "exhibition_location_5",
+    "text": "C209"
+  },
+  {
+    "name": "exhibition_location_6",
+    "text": "C209"
+  },
+  {
+    "name": "exhibition_location_7",
+    "text": "C206"
+  },
+  {
+    "name": "exhibition_location_8",
+    "text": "C212"
+  },
+  {
+    "name": "exhibition_location_9",
+    "text": "C305"
+  },
+  {
     "name": "exhibition_name_1",
     "text": "サイエンスラボ部"
+  },
+  {
+    "name": "exhibition_name_10",
+    "text": "近畿大学付属広島高等学校・中学校東広島校吹奏楽部合同演奏会"
+  },
+  {
+    "name": "exhibition_name_11",
+    "text": "軽音楽部"
   },
   {
     "name": "exhibition_name_2",
@@ -68,8 +132,36 @@
     "text": "マイコン部"
   },
   {
+    "name": "exhibition_name_5",
+    "text": "ロボット研究部"
+  },
+  {
+    "name": "exhibition_name_6",
+    "text": "学生起業部"
+  },
+  {
+    "name": "exhibition_name_7",
+    "text": "天文学研究部"
+  },
+  {
+    "name": "exhibition_name_8",
+    "text": "模型同好会"
+  },
+  {
+    "name": "exhibition_name_9",
+    "text": "デジタル・メディアアート同好会"
+  },
+  {
     "name": "exhibition_time_1",
     "text": "10:30~17:00"
+  },
+  {
+    "name": "exhibition_time_10",
+    "text": "10:15~10:45"
+  },
+  {
+    "name": "exhibition_time_11",
+    "text": "11:30~16:00"
   },
   {
     "name": "exhibition_time_2",
@@ -82,6 +174,26 @@
   {
     "name": "exhibition_time_4",
     "text": "10:00～18:00"
+  },
+  {
+    "name": "exhibition_time_5",
+    "text": "10:00~17:00"
+  },
+  {
+    "name": "exhibition_time_6",
+    "text": "10:00~18:00"
+  },
+  {
+    "name": "exhibition_time_7",
+    "text": "10:00~17:00"
+  },
+  {
+    "name": "exhibition_time_8",
+    "text": "10:00~18:00"
+  },
+  {
+    "name": "exhibition_time_9",
+    "text": "10:00~18:00"
   },
   {
     "name": "firework_desc",
